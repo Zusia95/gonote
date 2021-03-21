@@ -30,4 +30,9 @@ a {
 	font-weight: bold;
 	text-decoration: none;
 }
+.cover {
+	background-image: url("organizer.jpeg");
+	background-position: center;
+	background-size: cover;    
+	min-height: 150px;}
 	
